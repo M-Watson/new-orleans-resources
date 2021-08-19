@@ -6,3 +6,8 @@
 * [StayLocal](https://www.staylocal.org/)
 * [Eater New Orleans](https://nola.eater.com/)
 * [OffBeat Magazine](https://www.offbeat.com/)
+* [The Lens](https://thelensnola.org/)
+* [Where Y'at](https://www.whereyat.com/)
+* [Biz New Orleans](https://www.bizneworleans.com/)
+* [The Data Center](https://www.datacenterresearch.org/)
+* [The Bureau of Governmental Research](https://www.bgr.org/)
