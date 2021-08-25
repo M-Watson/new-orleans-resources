@@ -11,3 +11,5 @@
 * [Biz New Orleans](https://www.bizneworleans.com/)
 * [The Data Center](https://www.datacenterresearch.org/)
 * [The Bureau of Governmental Research](https://www.bgr.org/)
+* [Uptown Messenger](https://uptownmessenger.com/)
+* [Mid-City Messenger](https://midcitymessenger.com/)
