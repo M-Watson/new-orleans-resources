@@ -23,3 +23,4 @@
 * [New Orleans Local](https://neworleanslocal.com/)
 * [The Data Center](https://www.datacenterresearch.org/)
 * [BGR](https://www.bgr.org/)
+* [Curbed NOLA - NO LONGER UPDATED](https://nola.curbed.com/)
