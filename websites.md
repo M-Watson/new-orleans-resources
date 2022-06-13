@@ -24,3 +24,9 @@
 * [The Data Center](https://www.datacenterresearch.org/)
 * [BGR](https://www.bgr.org/)
 * [Curbed NOLA - NO LONGER UPDATED](https://nola.curbed.com/)
+
+
+
+## Not Louisiana or New Orleans Specific
+* [Scalawag Magazine](https://scalawagmagazine.org)
+* [Southerly Magazine](https://southerlymag.org/)
