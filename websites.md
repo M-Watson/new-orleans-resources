@@ -5,7 +5,6 @@
 * [Canal Street Beat](https://canalstreetbeat.com/)
 * [Big Easy Magazine](https://www.bigeasymagazine.com/)
 * [StayLocal](https://www.staylocal.org/)
-* [Eater New Orleans](https://nola.eater.com/)
 * [OffBeat Magazine](https://www.offbeat.com/)
 * [The Lens](https://thelensnola.org/)
 * [Where Y'at](https://www.whereyat.com/)
@@ -23,9 +22,11 @@
 * [New Orleans Local](https://neworleanslocal.com/)
 * [The Data Center](https://www.datacenterresearch.org/)
 * [BGR](https://www.bgr.org/)
+* [Eater New Orleans](https://nola.eater.com/)
 * [Curbed NOLA - NO LONGER UPDATED](https://nola.curbed.com/)
 
-
+## Louisiana
+* [Public Affairs Research Council of Louisiana](https://parlouisiana.org/)
 
 ## Not Louisiana or New Orleans Specific
 * [Scalawag Magazine](https://scalawagmagazine.org)
