@@ -24,7 +24,7 @@
 * [BGR](https://www.bgr.org/)
 * [Eater New Orleans](https://nola.eater.com/)
 * [Curbed NOLA - NO LONGER UPDATED](https://nola.curbed.com/)
-
+* [Verite News](https://veritenews.org/)
 ## Louisiana
 * [Public Affairs Research Council of Louisiana](https://parlouisiana.org/)
 
